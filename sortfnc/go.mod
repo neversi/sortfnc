@@ -1,3 +1,3 @@
-module github.com/neversi/sortfnc/sortfnc
+module github.com/neversi/sortfnc
 
 go 1.15
